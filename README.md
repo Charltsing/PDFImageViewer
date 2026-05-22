@@ -5,7 +5,7 @@ This software owes its existence to the [MewUI](https://github.com/aprillz/MewUI
 
 ![UI](https://github.com/Charltsing/PDFImageViewer/blob/main/screenshot1.PNG)
 
-For a long time, I have been relying on third-party tools like pdfimages (XPDF) and mutool (MuPDF) to extract images from PDFs. However, these tools cannot guarantee 100% accurate image extraction; issues like color shifts or zero-byte output files frequently occur. For instance, when processing the sample file Separation-DCT.pdf, both tools directly export the DCT-encoded image data as JPG files without proper decoding and color correction. Furthermore, mutool often exports zero-byte PAM images.
+For a long time, I have been relying on third-party tools like pdfimages (XPDF) and mutool (MuPDF) to extract images from PDFs. However, these tools cannot guarantee 100% accurate image extraction; issues like color shifts or zero-byte output files frequently occur. For instance, when processing the sample file Separation-DCT.pdf, both tools directly export the DCT-encoded image data as JPG files without proper decoding and color correction. Furthermore, mutool often exports zero-byte PAM images. In comparison, the pdfimages from poppler v26 is far superior.
 
 ![UI](https://github.com/Charltsing/PDFImageViewer/blob/main/screenshot2.PNG)
 
