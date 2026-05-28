@@ -17,6 +17,8 @@ Starting from version 2.0, the software can save embedded images in Image-Only P
 
 ![UI](https://github.com/Charltsing/PDFImageViewer/blob/main/screenshot3.PNG)
 
+![UI](https://github.com/Charltsing/PDFImageViewer/blob/main/PDFtoJBig2.gif)
+
 Contact me: QQ 564955427 Email liucq@163.com
 
 URL: [cnblogs](https://www.cnblogs.com/Charltsing/p/20058707/PDFImageViewer)
