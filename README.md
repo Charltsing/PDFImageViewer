@@ -1,5 +1,5 @@
 # PDFImageViewer
-PDFImageViewer is a free tool to view and losslessly extract embedded images from PDF documents. 
+PDFImageViewer is a free tool to view and losslessly extract embedded images from PDF documents and it can convert Image-Only PDF to JBig2 PDF.
 
 This software owes its existence to the [MewUI](https://github.com/aprillz/MewUI), which satisfied most of my needs for a C# UI framework: high performance, AOT compatibility, dark theme, and adequate basic controls. The only catch is that the author prioritizes cross-platform tech over functional details, making the framework feel more like a tech demo. Consequently, I spent time fixing some control functionalities to make it viable for practical application details. Incidentally, I also found and worked around a critical crash bug related to image loading (though I’m currently unable to submit this issue due to the author’s circumstances).
 
